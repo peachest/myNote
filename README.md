@@ -1,2 +1,3 @@
 # myNote
-repository of my notes
+repository of my notes.
+
